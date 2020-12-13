@@ -1,35 +1,31 @@
 {
     "palette": "blue",
     "header": {
-        "logo_img": "images/logo.png",
+        "logo_img": "images/cropped-acm-1.png",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Главная",
                 "url": "/"
             },
             {
-                "label": "Features",
+                "label": "Услуги",
                 "url": "/features"
             },
             {
-                "label": "Pricing",
+                "label": "Цены",
                 "url": "/pricing"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide"
-            },
-            {
-                "label": "Sign Up",
+                "label": "Подписаться",
                 "url": "/signup",
                 "primary": true
             }
         ]
     },
     "footer": {
-        "logo_img": "images/logo_alt.png",
-        "tagline": "SaaS theme by Stackbit",
+        "logo_img": "images/polite-chestnut.png",
+        "tagline": "Creative Professional Services",
         "has_nav": true,
         "nav_title": "Company",
         "nav_links": [
@@ -81,5 +77,6 @@
             }
         ]
     },
-    "title": "Azimuth"
+    "title": "And Cut Media",
+    "domain": "andcut.by"
 }
