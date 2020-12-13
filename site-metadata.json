@@ -19,7 +19,7 @@
             {
                 "label": "Style Guide",
                 "url": "/style-guide",
-                "primary": true
+                "primary": false
             },
             {
                 "label": "Sign Up",
