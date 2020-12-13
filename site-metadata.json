@@ -17,7 +17,7 @@
                 "url": "/pricing"
             },
             {
-                "label": "Sign Up",
+                "label": "Подписаться",
                 "url": "/signup",
                 "primary": true
             }
